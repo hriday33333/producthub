@@ -1,4 +1,4 @@
-# 🌟 Project Name
+# 🌟 producthub
 
 > A short and catchy description of your project here.
 > Example: "A modern, responsive web application built with Next.js for showcasing products and client-side features."

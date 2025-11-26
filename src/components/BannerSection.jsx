@@ -2,11 +2,11 @@ export default function BannerSection() {
   return (
     <section className="relative w-full h-[400px] md:h-[500px] lg:h-[550px] mt-16">
       {/* Background Image */}
-      <img
-        src="https://images.unsplash.com/photo-1503602642458-232111445657?q=80"
+      {/* <img
+        src="https://images.unsplash.com/photo-1542385108-c89e18b1d92a?q=80"
         alt="Banner"
         className="w-full h-full object-cover"
-      />
+      /> */}
 
       {/* Overlay */}
       <div className="absolute inset-0 bg-black/50"></div>
